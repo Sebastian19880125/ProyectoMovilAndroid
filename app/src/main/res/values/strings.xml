@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ProyectoWebMovil2</string>
+    <string name="texto_login">Disfruta tu vida,</string>
+    <string name="texto_login1">lo demás déjaselo a</string>
+    <string name="texto_login2">Rappi</string>
+    <string name="username">User Name</string>
+    <string name="password">Contraseña</string>
+    <string name="passwordnew">Contraseña Nueva</string>
+    <string name="changepassword"><a href="">¿Olvidaste tu contraseña?</a></string>
+    <string name="btningresar">Ingresar</string>
+    <string name="registrarse"><a href="">Registrarse</a></string>
+    <string name="nombres">Nombres</string>
+    <string name="apellido">Apellidos</string>
+    <string name="numidentificacion">Numero Identificación</string>
+    <string name="correo">Correo Electronico</string>
+    <string name="numtelefono">Numero Telefono</string>
+    <string name="direccion">Direccion Residencia</string>
+    <string name="btnregistrousuario">Enviar</string>
+    <string name="btnsalir">Salir</string>
+</resources>
