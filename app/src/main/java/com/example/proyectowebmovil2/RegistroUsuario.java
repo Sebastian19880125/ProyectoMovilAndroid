@@ -112,6 +112,7 @@ public class RegistroUsuario extends AppCompatActivity {
         });
     }
 
+    //Metodo de limpiar campos
     public  void limpiar(){
 
         et_nombres.setText("");
